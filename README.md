@@ -22,4 +22,10 @@ CAD:
 
 <img width="765" height="597" alt="Screenshot 2025-12-09 at 4 33 22 PM" src="https://github.com/user-attachments/assets/1afe54f2-7887-4916-91d6-78fad52b098f" />
 
+<img width="798" height="555" alt="Screenshot 2025-12-09 at 10 32 27 PM" src="https://github.com/user-attachments/assets/ef04d750-19b8-4ff3-ab12-a24c14588a8a" />
+
+<img width="767" height="546" alt="Screenshot 2025-12-09 at 10 35 43 PM" src="https://github.com/user-attachments/assets/849e5940-b44f-4ac5-a7e9-266927173b4f" />
+
+
+
 
